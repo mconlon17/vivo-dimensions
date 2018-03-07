@@ -7,4 +7,4 @@ Simon Porter, Digital Science
 [Michael Conlon](https://github.com/mconlon17), The VIVO Project
 
 * Code improvements
-* Refinments of VIVO triples
+* Refinements of VIVO triples
