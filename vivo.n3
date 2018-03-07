@@ -1,0 +1,234 @@
+@prefix ns1: <http://vivoweb.org/ontology/core#> .
+@prefix ns2: <http://purl.org/ontology/bibo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800713> a ns2:Image ;
+    rdfs:label "Autor_innen" ;
+    ns2:doi "10.14361/9783839438732-021" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1099800713createdDate> .
+
+<https://app.dimensions.ai/details/publication/pub.1100443486> a ns2:Image ;
+    rdfs:label "Buch 9. Schlussvorschriften" ;
+    ns2:doi "10.9785/9783504385408-014" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1100443486createdDate> .
+
+<https://app.dimensions.ai/details/publication/pub.1100443487> a ns2:Image ;
+    rdfs:label "Sachregister" ;
+    ns2:doi "10.9785/9783504385408-015" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1100443487createdDate> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800708> a ns2:Image ;
+    rdfs:label "Palästina erzählen" ;
+    ns2:doi "10.14361/9783839440100" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1099800708createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1099800708/authorshipKawtharEl-Qasem> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800708/authorshipKawtharEl-Qasem> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800708> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800708createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1099800713createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1099800719/authorshipBettinaWuttig> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1,
+        4 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800719> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800719/authorshipJasminScholle> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 3 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800719> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800719/authorshipLeaSpahn> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 2 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800719> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800719/authorshipSusanneMaurer> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 5 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800719> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800719createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721/authorshipBettinaWuttig> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 4 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800721> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721/authorshipDorotheaHafner> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800721> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721/authorshipJasminScholle> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 3 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800721> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721/authorshipLeaSpahn> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 2 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800721> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721/authorshipSusanneMaurer> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 5 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800721> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731/authorshipBettinaWuttig> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 4 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800731> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731/authorshipCorinnaSchmechel> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800731> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731/authorshipJasminScholle> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 3 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800731> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731/authorshipLeaSpahn> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 2 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800731> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731/authorshipSusanneMaurer> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 5 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1099800731> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1100338671/authorshipHenningRossa> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338671> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338671/authorshipKlausZehbe> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 4 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338671> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338671/authorshipMiriamMathias> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 3 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338671> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338671/authorshipRuprechtMattig> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 2 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338671> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338671createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1100338687/authorshipDietrichErben> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 2 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338687> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338687/authorshipTobiasZervosen> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 3 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338687> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338687/authorshipZenoAckermann> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338687> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338687createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1100338823/authorshipFalkBornmüller> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 1,
+        3 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338823> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338823/authorshipKatrinFelgenhauer> a ns1:Authorship,
+        ns1:Relationship ;
+    ns1:rank 2 ;
+    ns1:relates <https://app.dimensions.ai/details/publication/pub.1100338823> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338823createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1100443486createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1100443487createdDate> a ns1:DateTimeValue ;
+    xsd:dateTime "2018-12-31" .
+
+<https://app.dimensions.ai/details/publication/pub.1100338823> a ns2:Image ;
+    rdfs:label "Macht denken – Über das Bestimmende des Denkens der Macht" ;
+    ns2:doi "10.14361/9783839441206-012" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1100338823createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1100338823/authorshipFalkBornmüller>,
+        <https://app.dimensions.ai/details/publication/pub.1100338823/authorshipKatrinFelgenhauer> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338687> a ns2:Image ;
+    rdfs:label "Autobiographische Oikonomien. Henry Thoreaus Walden (1854) und Henry Fords My Life and Work (1923)" ;
+    ns2:doi "10.14361/9783839437636-005" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1100338687createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1100338687/authorshipDietrichErben>,
+        <https://app.dimensions.ai/details/publication/pub.1100338687/authorshipTobiasZervosen>,
+        <https://app.dimensions.ai/details/publication/pub.1100338687/authorshipZenoAckermann> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800719> a ns2:Image ;
+    rdfs:label "Paradise Now: Jihad als Heterotopie? Sicherheitsdispositiv, Biomacht und der (un-)verwundbare Körper des Selbstmordattentäters" ;
+    ns2:doi "10.14361/9783839438732-018" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1099800719createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1099800719/authorshipBettinaWuttig>,
+        <https://app.dimensions.ai/details/publication/pub.1099800719/authorshipJasminScholle>,
+        <https://app.dimensions.ai/details/publication/pub.1099800719/authorshipLeaSpahn>,
+        <https://app.dimensions.ai/details/publication/pub.1099800719/authorshipSusanneMaurer> .
+
+<https://app.dimensions.ai/details/publication/pub.1100338671> a ns2:Image ;
+    rdfs:label "Assessing the Intercultural Dimension of Language Learning" ;
+    ns2:doi "10.14361/9783839436882-005" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1100338671createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1100338671/authorshipHenningRossa>,
+        <https://app.dimensions.ai/details/publication/pub.1100338671/authorshipKlausZehbe>,
+        <https://app.dimensions.ai/details/publication/pub.1100338671/authorshipMiriamMathias>,
+        <https://app.dimensions.ai/details/publication/pub.1100338671/authorshipRuprechtMattig> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800721> a ns2:Image ;
+    rdfs:label "Tanztherapie HKIT® als Heterotopie" ;
+    ns2:doi "10.14361/9783839438732-017" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1099800721createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1099800721/authorshipBettinaWuttig>,
+        <https://app.dimensions.ai/details/publication/pub.1099800721/authorshipDorotheaHafner>,
+        <https://app.dimensions.ai/details/publication/pub.1099800721/authorshipJasminScholle>,
+        <https://app.dimensions.ai/details/publication/pub.1099800721/authorshipLeaSpahn>,
+        <https://app.dimensions.ai/details/publication/pub.1099800721/authorshipSusanneMaurer> .
+
+<https://app.dimensions.ai/details/publication/pub.1099800731> a ns2:Image ;
+    rdfs:label "›Andere‹ Körper in ›Anderen‹ Räumen? Zur Bedeutung von Körpern für die Konstruktion von Raum" ;
+    ns2:doi "10.14361/9783839438732-012" ;
+    ns1:dateTime <https://app.dimensions.ai/details/publication/pub.1099800731createdDate> ;
+    ns1:relatedBy <https://app.dimensions.ai/details/publication/pub.1099800731/authorshipBettinaWuttig>,
+        <https://app.dimensions.ai/details/publication/pub.1099800731/authorshipCorinnaSchmechel>,
+        <https://app.dimensions.ai/details/publication/pub.1099800731/authorshipJasminScholle>,
+        <https://app.dimensions.ai/details/publication/pub.1099800731/authorshipLeaSpahn>,
+        <https://app.dimensions.ai/details/publication/pub.1099800731/authorshipSusanneMaurer> .
+
+
