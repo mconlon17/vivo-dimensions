@@ -4,7 +4,7 @@ Simon Porter, Digital Science
 * Dimension DSL
 * Original code for DSL query
 
-[Michael Conlon](@mconlon17), The VIVO Project
+[Michael Conlon](https://github.com/mconlon17), The VIVO Project
 
 * Code improvements
 * Refinments of VIVO triples
