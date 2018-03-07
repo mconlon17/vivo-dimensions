@@ -8,3 +8,4 @@
 
 * Code improvements
 * Refinements of VIVO triples
+* GitHub stuff
